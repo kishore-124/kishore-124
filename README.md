@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kishore Gopalakrishnan
-- 🌱 I’m good at Ruby on rails, Django, Spring boot, React js, Currently learning React Native and .Net(C Sharp)
+- 🌱 I’m good at Ruby on rails, Django, Spring boot, React js, Laravel, Currently learning Flutter.
 - 💞️ I’m looking to collaborate and work with you.
 - 📫 Reach out me on kishorekce124@gmail.com, skype: live:.cid.a4bc17824440889e
 
